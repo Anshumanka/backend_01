@@ -1,3 +1,3 @@
-echo "backend_project_01"
+backend_project_01
 
-model link " "git 
+model link " "
